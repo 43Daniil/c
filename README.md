@@ -56,7 +56,7 @@ K&R13-24      (https://github.com/John4155/K-R/tree/main/K%26R13-24)
   15. main15_FC.draw – NOT READY
   16. main16_FC.draw – NOT READY
   17. main17_FC.draw – NOT READY
-  18. main18_FC.draw – NOT READY
+  18. main18_FC.draw – READY
   19. main19_FC.draw – NOT READY
   20. main20_FC.draw – NOT READY
   21. main21_FC.draw – NOT READY
