@@ -43,7 +43,7 @@ K&R13-24      (https://github.com/John4155/K-R/tree/main/K%26R13-24)
   3. main15.c – READY 20.04
   4. main16.c – READY 23.04
   5. main17.c – READY 07.05
-  6. main18.c – NOT READY
+  6. main18.c – READY 
   7. main19.c – NOT READY
   8. main20.c – NOT READY
   9. main21.c – NOT READY
