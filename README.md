@@ -38,14 +38,14 @@ K&R1-12      (https://github.com/John4155/K-R/tree/main/K%26R1-12)
   ---
   
 K&R13-24      (https://github.com/John4155/K-R/tree/main/K%26R13-24)
-  1. main13.c – READY 15.04
-  2. main14.c – READY 17.04
-  3. main15.c – READY 20.04
-  4. main16.c – READY 23.04
-  5. main17.c – READY 07.05
-  6. main18.c – NOT READY
-  7. main19.c – NOT READY
-  8. main20.c – NOT READY
+  1. main13.c – READY
+  2. main14.c – READY 
+  3. main15.c – READY
+  4. main16.c – READY
+  5. main17.c – READY
+  6. main18.c – READY
+  7. main19.c – READY
+  8. main20.c – READY
   9. main21.c – NOT READY
   10. main22.c – NOT READY
   11. main23.c – NOT READY
